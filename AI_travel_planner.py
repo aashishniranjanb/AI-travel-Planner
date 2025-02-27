@@ -28,25 +28,25 @@ st.markdown(
     """
     <style>
     body {
-        background-color: #1E293B;
-        color: #E2E8F0;
+        background-color: #466BD2;
+        color: #000000;
     }
     .stApp {
-        background-color: #1E293B;
+        background-color: #F5F5F5;
         padding: 20px;
     }
     .stTextInput, .stButton, .stTextArea {
-        background-color: #334155 !important;
-        color: #E2E8F0 !important;
+        background-color: ##FFFFFF !important;
+        color: #000000 !important;
         border-radius: 8px;
     }
     .stButton>button {
-        background-color: #3B82F6 !important;
-        color: #FFFFFF !important;
+        background-color: #FF0000 !important;
+        color: #000000 !important;
         border-radius: 8px;
     }
     .result-container {
-        background-color: #475569;
+        background-color: #FFFFFF;
         padding: 15px;
         border-radius: 8px;
         margin-top: 20px;
