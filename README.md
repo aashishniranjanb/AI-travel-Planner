@@ -1,7 +1,4 @@
 #🚀 AI-Powered Travel Planner – Smarter, Faster, and More Efficient! ✈️
-Travel planning just got a whole lot easier! 🌍✨
-
-I've built an AI-powered Travel Planner that helps users find the best travel options – including flights, trains, buses, and cabs – with estimated costs, travel time, and facilities in seconds. No more endless searching on multiple websites!
 
 🔹 How It Works?
 ✅ Users enter their source, destination, date, and passenger count
