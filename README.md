@@ -9,12 +9,13 @@ __*Travel Recommendations:*__ The system generates a structured list of travel o
 __*Quick & Reliable Options:*__ Receive fast, trustworthy, and cost-effective travel recommendations tailored to your needs.<br/>
 
 
-### 🔧 Tech Stack
-🚀 Python: Core Development
-🎨 Streamlit: Interactive User Interface
-🧠 LangChain: LLM-based Query Handling
-🤖 Google GenAI: Intelligent Travel Insights
-🎨 Enhanced UI & Features
-✅ Sleek Dark-Themed UI: Enjoy a modern and visually appealing experience.
-✅ Error Handling: Smooth interactions with robust error management.
-✅ Custom Styling with CSS: A polished user interface for an enhanced experience.
+### 🔧 Tech Stack<br/>
+__*🚀 Python__*: Core Development<br/>
+__*🎨 Streamlit__*: Interactive User Interface<br/>
+__*🧠 LangChain__*: LLM-based Query Handling<br/>
+__*🤖 Google GenAI__*: Intelligent Travel Insights<br/>
+
+### 🎨 Enhanced UI & Features<br/>
+__*✅ Sleek Dark-Themed UI__*: Enjoy a modern and visually appealing experience.<br/>
+__*✅ Error Handling__*: Smooth interactions with robust error management.<br/>
+__*✅ Custom Styling with CSS__: A polished user interface for an enhanced experience.<br/>
