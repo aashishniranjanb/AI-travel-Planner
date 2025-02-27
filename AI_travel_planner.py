@@ -29,8 +29,8 @@ st.markdown(
     <style>
     /* Page Background & General Text Color */
     body {
-        background-color: #AC8FE2;  /* Deep indigo */
-        color: #FFFFFF;             /* White text */
+        background-color: #CFB5FF; 
+        color: #FFFFFF;             
     }
     
     /* Main App Container */
