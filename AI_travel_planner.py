@@ -27,29 +27,39 @@ st.set_page_config(page_title="AI Travel Planner", page_icon="✈️", layout="c
 st.markdown(
     """
     <style>
+    /* Page Background & General Text Color */
     body {
-        background-color: #8649E6;
-        color: #000000;
+        background-color: #4B0082;  /* Deep indigo */
+        color: #FFFFFF;             /* White text */
     }
+    
+    /* Main App Container */
     .stApp {
-        background-color: #F5F5F5;
+        background-color: #6A0DAD;  /* Amethyst purple */
         padding: 20px;
     }
-    .stTextInput, .stButton, .stTextArea {
-        background-color: ##FFFFFF !important;
-        color: #000000 !important;
+    
+    /* Input Fields: Text Input & Text Area */
+    .stTextInput, .stTextArea {
+        background-color: #7F3FBF !important;  /* Lighter purple for inputs */
+        color: #FFFFFF !important;             /* White text inside inputs */
         border-radius: 8px;
     }
+    
+    /* Button Styling */
     .stButton>button {
-        background-color: #FF0000 !important;
-        color: #000000 !important;
+        background-color: #9B59B6 !important;  /* Vibrant purple for buttons */
+        color: #FFFFFF !important;             /* White text on buttons */
         border-radius: 8px;
     }
+    
+    /* Result Container Styling */
     .result-container {
-        background-color: #FFFFFF;
+        background-color: #8E44AD;  /* Complementary purple */
         padding: 15px;
         border-radius: 8px;
         margin-top: 20px;
+        color: #FFFFFF;             /* White text inside results */
     }
     </style>
     """,
