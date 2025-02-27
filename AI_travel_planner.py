@@ -29,7 +29,7 @@ st.markdown(
     <style>
     /* Page Background & General Text Color */
     body {
-        background-color: #4B0082;  /* Deep indigo */
+        background-color: #AC8FE2;  /* Deep indigo */
         color: #FFFFFF;             /* White text */
     }
     
