@@ -87,4 +87,4 @@ if st.button("🔍 Find Travel Options"):
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #FFFFFF;'>💡 Powered by AI | Developed by Aashish Niranjan B </p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #000000;'>💡 Powered by AI | Developed by Aashish Niranjan B </p>", unsafe_allow_html=True)
