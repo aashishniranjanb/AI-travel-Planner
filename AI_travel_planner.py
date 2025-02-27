@@ -35,7 +35,7 @@ st.markdown(
     
     /* Main App Container */
     .stApp {
-        background-color: #6A0DAD;  /* Amethyst purple */
+        background-color: #DBD3EF;  /* Amethyst purple */
         padding: 20px;
     }
     
